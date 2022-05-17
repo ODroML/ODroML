@@ -4,7 +4,7 @@ Welcome to the repository of the core ODroML runtime. **Contrary to the name, it
 
 ## Install
 ```
-go install github.com/odroml/odroml@latest
+go install github.com/odroml/odroml/cmd/odroml@latest
 ```
 
 ## How does FizzBuzz look?
